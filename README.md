@@ -12,7 +12,7 @@ learning git operation repository
 
 - 在自己的机器执行 `git config  --list` ，查看 git 的全局用户名和邮箱。
 - 检查显示的 user.name 和 user.email 是不是与自己 github 的用户名和邮箱相匹配。
-- 如果公司内部有自己的 gitlab 或者使用了其他商业化的 gitlab，则可能会出现不匹配的情况。这时候，你需要为 spring-cloud-alibaba 项目单独设置用户名和邮箱。
+- 如果公司内部有自己的 gitlab 或者使用了其他商业化的 gitlab，则可能会出现不匹配的情况。需要单独设置用户名！
 - 设置用户名和邮箱的方式请参考 github 官方文档，[设置用户名](https://help.github.com/articles/setting-your-username-in-git/#setting-your-git-username-for-a-single-repository)，[设置邮箱](https://help.github.com/articles/setting-your-commit-email-address-in-git/)。
 
 ### Merge 最新代码
@@ -22,4 +22,4 @@ learning git operation repository
 
 ### 提交pr
 
-提交 PR，根据 `Pull request template` 写明修改点和实现的功能，等待 code review 和 合并，成为 Spring Cloud Alibaba Contributor，为更好用的 Spring Cloud 做出贡献。
+提交 PR，根据 `Pull request template` 写明修改点和实现的功能，等待 code review 和 合并。
