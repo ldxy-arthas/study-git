@@ -27,7 +27,6 @@ public class User {
 				", eamil='" + eamil + '\'' +
 				'}';
 	}
-
 	@Override
 	public boolean equals(Object o) {
 		if (this == o) return true;
