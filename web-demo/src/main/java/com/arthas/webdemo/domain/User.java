@@ -32,6 +32,7 @@ public class User {
 		if (this == o) return true;
 		if (o == null || getClass() != o.getClass()) return false;
 		User user = (User) o;
+		System.out.println("push txt");
 		return Objects.equals(username, user.username) && Objects.equals(password, user.password) && Objects.equals(eamil, user.eamil);
 	}
 
