@@ -23,13 +23,3 @@ learning git operation repository
 ### 提交pr
 
 提交 PR，根据 `Pull request template` 写明修改点和实现的功能，等待 code review 和 合并。
-
-
-
-
-
-## modify
-
-sdfasfdasfsdaf
-
-asfdsafsdf
