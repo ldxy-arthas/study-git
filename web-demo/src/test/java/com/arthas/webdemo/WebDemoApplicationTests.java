@@ -12,3 +12,9 @@ class WebDemoApplicationTests {
 	}
 
 }
+#include <stdio.h>
+int main()
+{
+printf("hello hh");
+putchar('\n');
+}
