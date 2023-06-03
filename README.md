@@ -1,4 +1,4 @@
-# study-git
+#息 study-gi
 learning git operation repository
 
 ## 入手
@@ -21,5 +21,7 @@ learning git operation repository
 - 如果出现冲突，需要先解决冲突。
 
 ### 提交pr
+提交 PR，根据 `Pull request template` 写明修改点和实现的功能，等待 code review
+//lewf//:wq
 
-提交 PR，根据 `Pull request template` 写明修改点和实现的功能，等待 code review 和 合并。
+
