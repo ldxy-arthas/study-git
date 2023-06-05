@@ -4,3 +4,4 @@ wbyecyewcb
 
 test -zifeiyu
 test -xiao
+test -xiao6.5
